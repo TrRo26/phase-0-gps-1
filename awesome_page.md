@@ -4,4 +4,4 @@
 
 ``` this is our code part```
 
-[I'm an in-line style link](https://www.google.com)
+[I'm an in-line style link](https://www.yahoo.com)
